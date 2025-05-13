@@ -6,12 +6,12 @@ A USSD and SMS-based bus booking system for Rwanda, developed using PHP and Afri
 ## Developers
 - **TUYIZERE JANVIER**
   - Role: Lead Developer
-  - Email: tuyizere.janvier@example.com
+  - Email: sabatoj30@gmail.com
   - Contributions: USSD Flow Development, Database Design
 
 - **MUKARUKUNDO SOPHIE**
   - Role: Developer
-  - Email: mukarukundo.sophie@example.com
+  - Email: mukaru2022@gmail.com
   - Contributions: SMS Integration, Testing
 
 ## Features
@@ -36,7 +36,7 @@ A USSD and SMS-based bus booking system for Rwanda, developed using PHP and Afri
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/BusBookingUSSD.git
+git clone https://github.com/SABATO123/BusBookingUSSD.git
 cd BusBookingUSSD
 ```
 
@@ -131,8 +131,8 @@ BusBookingUSSD/
 
 ## Support and Contact
 For technical support or questions, please contact:
-- TUYIZERE JANVIER: tuyizere.janvier@example.com
-- MUKARUKUNDO SOPHIE: mukarukundo.sophie@example.com
+- TUYIZERE JANVIER
+- MUKARUKUNDO SOPHIE
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
