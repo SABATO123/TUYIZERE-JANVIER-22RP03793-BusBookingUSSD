@@ -8,7 +8,6 @@ $senderId = "MyMoney ltd"; // Sender ID for SMS
 
 // Initialize the SDK
 $AT = new AfricasTalking\SDK\AfricasTalking($username, $apiKey);
-
 // Get the SMS service
 $sms = $AT->sms();
 
