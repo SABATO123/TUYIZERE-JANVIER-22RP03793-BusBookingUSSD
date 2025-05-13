@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS bus_booking;
 USE bus_booking;
 
--- Create routes table
+-- Create routes tables
 CREATE TABLE IF NOT EXISTS routes (
     route_id INT PRIMARY KEY AUTO_INCREMENT,
     from_location VARCHAR(100) NOT NULL,
