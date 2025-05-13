@@ -1,0 +1,20 @@
+{
+    "name": "busbooking/ussd",
+    "description": "USSD and SMS-based bus booking system for Rwanda",
+    "type": "project",
+    "require": {
+        "php": ">=7.0",
+        "africastalking/africastalking": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "TUYIZERE JANVIER",
+            "email": "tuyizere.janvier@example.com"
+        },
+        {
+            "name": "MUKARUKUNDO SOPHIE",
+            "email": "mukarukundo.sophie@example.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
