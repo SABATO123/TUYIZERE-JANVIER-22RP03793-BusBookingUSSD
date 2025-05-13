@@ -1,7 +1,7 @@
 <?php
 require_once 'config.php';
 
-// Get the POST data from Africa's Talking
+// Get the POST data from Africa's TalkingS
 $sessionId   = $_POST['sessionId'] ?? '';
 $serviceCode = $_POST['serviceCode'] ?? '';
 $phoneNumber = $_POST['phoneNumber'] ?? '';
