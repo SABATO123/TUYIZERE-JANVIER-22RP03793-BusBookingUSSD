@@ -3,6 +3,27 @@
 ## Project Overview
 A USSD and SMS-based bus booking system for Rwanda, developed using PHP and Africa's Talking API. This application allows users to book bus tickets through USSD without internet access and receive SMS confirmations.
 
+HOW IT WORK BY IMAGE
+
+1.DIAL *384*07090#
+<img width="193" alt="image" src="https://github.com/user-attachments/assets/88c7f5c3-b223-41a3-89ef-fd04e5a96e76" />
+
+2.CHOOSE OPTION TOU WONT
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/b1452f2f-e629-42a6-b802-1af1b3316b6d" />
+
+3. WHEN TOU CHOOSE OPTION 1 YOU WILL GET THE LIST OF ROUTES
+   <img width="230" alt="image" src="https://github.com/user-attachments/assets/7c210f3d-0083-4ec3-9e0f-b5a24383fc99" />
+
+4. WHE YOU FINISH TO BOOK AND CONFIRM YOU WILL GET SMS
+   <img width="193" alt="image" src="https://github.com/user-attachments/assets/c50b0fe8-f311-42a6-aff7-f1a93d887549" />
+   IN SMS
+   <img width="176" alt="image" src="https://github.com/user-attachments/assets/75960be2-0302-455a-9427-e95b58344b89" />
+
+
+
+
+
+
 ## Developers
 - **TUYIZERE JANVIER**
   - Role: Lead Developer
