@@ -135,30 +135,10 @@ BusBookingUSSD/
 2. Follow the menu prompts
 3. Receive SMS confirmation
 
-## Security Features
-- Input validation for all user inputs
-- Prepared statements for database queries
-- Secure API key storage
-- Rate limiting implementation
-- HTTPS enforcement in production
 
-## Development Workflow
-1. Create feature branch
-2. Make changes
-3. Test thoroughly
-4. Create pull request
-5. Code review
-6. Merge to main branch
 
 ## Support and Contact
 For technical support or questions, please contact:
 - TUYIZERE JANVIER
 - MUKARUKUNDO SOPHIE
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Africa's Talking for USSD and SMS APIs
-- PHP and MySQL communities
-- All contributors and testers 
